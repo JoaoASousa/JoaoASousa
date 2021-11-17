@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+![JoaoASousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoASousa&count_private=true&theme=dark)
 
 <!--
 **JoaoASousa/JoaoASousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
